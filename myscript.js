@@ -1,3 +1,3 @@
 $.fn.plugin = function () {
-	alert("true this!")
+	console.log("go there")
 }
